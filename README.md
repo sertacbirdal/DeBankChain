@@ -1,20 +1,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeBankDeFi?style=social)](https://twitter.com/DeBankDeFi)
 [![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.com/invite/KYuj8DE)
 # DeBankChain - DeBank layer 2 solution
-
 The DeBankChain is the Layer 2 scaling solution powered by [bedrock version](https://community.optimism.io/docs/developers/bedrock/) of Optimism OP Stack.
-
-
 ## Features
-
 Besides the [differentiators of bedrock](https://community.optimism.io/docs/developers/bedrock/differences/), DeBankChain is the solution that we aim to provide the better optimistic rollup solution.
-
 ### Node optimization
-
 - The consensus logic has been modified reducing the L1 data storage gas cost by 100 to 400 times
 - An Abstract Accounts(AA)-like account system has been implemented natively, giving users a web2-like experience while maintaining 100% compatibility with existing EVM standards
 - The new account system supports transactions signed with second-layer private keys specifically generated, reducing the use of L1 private keys in low-value scenarios and enhancing the security of users' large assets.
-
 ### JSONRPC-API enhancement
 
 - EVM Pre Execution
